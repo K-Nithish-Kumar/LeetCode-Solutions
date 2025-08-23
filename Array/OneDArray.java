@@ -10,9 +10,6 @@ class OneDArray {
   OneDArray arr = new OneDArray();
   int[] nums = {1,2,3,4,5};
   int[] result = arr.resultingSum(nums);
-  System.out.println(Arrays.toString(result));
-  
-  
-  
+  System.out.println(Arrays.toString(result)); 
  }
 }
